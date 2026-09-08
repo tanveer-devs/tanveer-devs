@@ -77,7 +77,7 @@ Draw directly on your screen using just your gestures.
 
 `HTMLS` `CSS3` `JavaScript`
 
-[🔗 Repo](#) · [[🌐 Live Demo](https://air-draw-flame.vercel.app/)](#)
+[🔗 Repo]([#](https://air-draw-flame.vercel.app/)) · [🌐 Live Demo]]([#](https://air-draw-flame.vercel.app/))
 
 </td>
 </tr>
