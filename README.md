@@ -72,22 +72,12 @@ Software Engineering student sharpening my problem-solving through **DSA & C++**
 <tr>
 <td width="50%">
 
-### 📦 Project Name
-Short description of what the project does and the problem it solves.
+### 📦 AirDraw
+Draw directly on your screen using just your gestures.
 
-`Tech` `Stack` `Used`
+`HTMLS` `CSS3` `JavaScript`
 
-[🔗 Repo](#) · [🌐 Live Demo](#)
-
-</td>
-<td width="50%">
-
-### 📦 Project Name
-Short description of what the project does and the problem it solves.
-
-`Tech` `Stack` `Used`
-
-[🔗 Repo](#) · [🌐 Live Demo](#)
+[🔗 Repo](#) · [[🌐 Live Demo](https://air-draw-flame.vercel.app/)](#)
 
 </td>
 </tr>
