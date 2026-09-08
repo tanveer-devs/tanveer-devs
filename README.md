@@ -83,7 +83,6 @@ Draw directly on your screen using just your gestures.
 </tr>
 </table>
 
-<div align="center"><sub>📌 Replace the placeholders above with your real projects, links, and descriptions.</sub></div>
 
 <br/>
 
